@@ -1,12 +1,9 @@
-sudo: required
+dist: xenial
 
-language: generic
+language: minimal
 
 env:
   REPO: docksal/unison
-
-services:
-  - docker
 
 install:
 #
