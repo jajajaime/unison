@@ -7,7 +7,7 @@ Unison container suited for Docksal needs. Continuously syncs files between two 
 1. Add to the `docksal.env`:
 
     ```
-    DOCKER_VOLUMES=unison
+    DOCKSAL_VOLUMES=unison
     ```
 
 1. If your project was running before, then remove old containers and volumes with `fin project remove`
