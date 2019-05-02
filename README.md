@@ -2,6 +2,8 @@
 
 Unison container suited for Docksal needs. Continuously syncs files between two directories. 
 
+See https://docs.docksal.io/core/volumes/#unison-volumes for more details.
+
 ## Usage
 
 1. Add to the `docksal.env`:
